@@ -1,0 +1,101 @@
+PatientID;Disease1;Disease2;Disease3;Symptome1;Symptome2;Symptome3
+1;Diabetes;Hypertension;Thyroid;Soif excessive;Vision floue;Gain ou perte de poids inexpliquée
+2;HeartDisease;Diabetes;Asthma;Essoufflement;Soif excessive;Fatigue
+3;Diabetes;Obesity;Asthma;Essoufflement;Soif excessive;Fatigue
+4;Cancer;Diabetes;LiverDisease;Douleur;Soif excessive;Jauneur de la peau
+5;HeartDisease;Thyroid;Obesity;Fatigue;Gain ou perte de poids inexpliquée;
+6;Anxiety;Depression;Anemia;Fatigue;Nervosité;Tristesse
+7;Cancer;Anemia;LiverDisease;Fatigue;Douleur;Jauneur de la peau
+8;Depression;Anemia;Insomnia;Fatigue;Tristesse;Difficulté à s'endormir
+9;Diabetes;KidneyDisease;;Soif excessive;Gonflement des jambes et des chevilles;
+10;Cancer;LiverDisease;KidneyDisease;Douleur;Gonflement des jambes et des chevilles;Jauneur de la peau
+11;Cancer;Diabetes;KidneyDisease;Douleur;Soif excessive;Gonflement des jambes et des chevilles
+12;Hypertension;Diabetes;;Soif excessive;Vision floue;
+13;Cancer;Obesity;Diabetes;Douleur;Soif excessive;Fatigue
+14;Asthma;Depression;Anxiety;Nervosité;Essoufflement;Tristesse
+15;Asthma;Diabetes;;Essoufflement;Soif excessive;
+16;Depression;Obesity;Cancer;Douleur;Tristesse;Fatigue
+17;HeartDisease;KidneyDisease;Cancer;Douleur;Fatigue;Gonflement des jambes et des chevilles
+18;Hypertension;Cancer;KidneyDisease;Douleur;Vision floue;Gonflement des jambes et des chevilles
+19;Asthma;KidneyDisease;Anemia;Fatigue;Essoufflement;Gonflement des jambes et des chevilles
+20;Depression;KidneyDisease;Hypertension;Tristesse;Vision floue;Gonflement des jambes et des chevilles
+21;Depression;Alzheimer;Anemia;Perte mémoire;Fatigue;Tristesse
+22;Cancer;Asthma;KidneyDisease;Essoufflement;Douleur;Gonflement des jambes et des chevilles
+23;Depression;Anemia;Anxiety;Fatigue;Nervosité;Tristesse
+24;Obesity;Depression;Anxiety;Nervosité;Tristesse;Fatigue
+25;Depression;Insomnia;Anxiety;Nervosité;Tristesse;Difficulté à s'endormir
+26;KidneyDisease;Cancer;;Douleur;Gonflement des jambes et des chevilles;
+27;Diabetes;Asthma;;Essoufflement;Soif excessive;
+28;Insomnia;Anxiety;Depression;Nervosité;Tristesse;Difficulté à s'endormir
+29;Depression;Hypertension;Insomnia;Tristesse;Vision floue;Difficulté à s'endormir
+30;Depression;Diabetes;Hypertension;Tristesse;Soif excessive;Vision floue
+31;Diabetes;Hypertension;;Soif excessive;Vision floue;
+32;Anemia;Hypertension;;Fatigue;Vision floue;
+33;Depression;Insomnia;;Tristesse;Difficulté à s'endormir;
+34;Asthma;Obesity;;Essoufflement;Fatigue;
+35;Anemia;Depression;;Fatigue;Tristesse;
+36;Anemia;Insomnia;Depression;Fatigue;Tristesse;Difficulté à s'endormir
+37;Asthma;Depression;Insomnia;Essoufflement;Tristesse;Difficulté à s'endormir
+38;Insomnia;Anxiety;;Nervosité;Difficulté à s'endormir;
+39;Depression;Insomnia;;Tristesse;Difficulté à s'endormir;
+40;Cancer;Diabetes;;Douleur;Soif excessive;
+41;Depression;Anxiety;;Nervosité;Tristesse;
+42;Hypertension;Obesity;Thyroid;Vision floue;Fatigue;Gain ou perte de poids inexpliquée
+43;Depression;Anemia;;Fatigue;Tristesse;
+44;Diabetes;KidneyDisease;Anemia;Fatigue;Soif excessive;Gonflement des jambes et des chevilles
+45;Hypertension;Diabetes;;Soif excessive;Vision floue;
+46;Insomnia;Anxiety;Migraine;Nervosité;Difficulté à s'endormir;Nausées
+47;Diabetes;Hypertension;;Soif excessive;Vision floue;
+48;KidneyDisease;Cancer;LiverDisease;Douleur;Gonflement des jambes et des chevilles;Jauneur de la peau
+49;Insomnia;Migraine;;Difficulté à s'endormir;Nausées;
+50;Diabetes;Hypertension;Cancer;Douleur;Soif excessive;Vision floue
+51;Diabetes;Cancer;Obesity;Douleur;Soif excessive;Fatigue
+52;Thyroid;Diabetes;Hypertension;Soif excessive;Vision floue;Gain ou perte de poids inexpliquée
+53;Hypertension;;;Vision floue;;
+54;Diabetes;Hypertension;;Soif excessive;Vision floue;
+55;Hypertension;Depression;Insomnia;Tristesse;Vision floue;Difficulté à s'endormir
+56;Insomnia;Depression;;Tristesse;Difficulté à s'endormir;
+57;Hypertension;Diabetes;;Soif excessive;Vision floue;
+58;Depression;Insomnia;Migraine;Tristesse;Difficulté à s'endormir;Nausées
+59;Hypertension;Thyroid;;Vision floue;Gain ou perte de poids inexpliquée;
+60;Thyroid;Depression;Anemia;Fatigue;Tristesse;Gain ou perte de poids inexpliquée
+61;Hypertension;Thyroid;;Vision floue;Gain ou perte de poids inexpliquée;
+62;Diabetes;Thyroid;;Soif excessive;Gain ou perte de poids inexpliquée;
+63;Anemia;Anxiety;;Fatigue;Nervosité;
+64;Diabetes;Asthma;;Essoufflement;Soif excessive;
+65;Depression;Hypertension;Thyroid;Tristesse;Vision floue;Gain ou perte de poids inexpliquée
+66;Asthma;Anemia;;Fatigue;Essoufflement;
+67;Hypertension;Diabetes;;Soif excessive;Vision floue;
+68;Diabetes;Hypertension;;Soif excessive;Vision floue;
+69;Asthma;Hypertension;;Essoufflement;Vision floue;
+70;Hypertension;Diabetes;;Soif excessive;Vision floue;
+71;Diabetes;Depression;Hypertension;Tristesse;Soif excessive;Vision floue
+72;Thyroid;Anemia;;Fatigue;Gain ou perte de poids inexpliquée;
+73;Cancer;Depression;Insomnia;Douleur;Tristesse;Difficulté à s'endormir
+74;Hypertension;HeartDisease;;Fatigue;Vision floue;
+75;Alzheimer;Asthma;Diabetes;Perte mémoire;Essoufflement;Soif excessive
+76;Depression;Diabetes;Hypertension;Tristesse;Soif excessive;Vision floue
+77;Asthma;Obesity;Diabetes;Essoufflement;Soif excessive;Fatigue
+78;Insomnia;Alzheimer;;Perte mémoire;Difficulté à s'endormir;
+79;Cancer;Hypertension;;Douleur;Vision floue;
+80;Obesity;Depression;Insomnia;Tristesse;Difficulté à s'endormir;Fatigue
+81;Depression;Insomnia;Anxiety;Nervosité;Tristesse;Difficulté à s'endormir
+82;Cancer;KidneyDisease;;Douleur;Gonflement des jambes et des chevilles;
+83;Anemia;Asthma;Anxiety;Fatigue;Nervosité;Essoufflement
+84;Insomnia;Hypertension;Thyroid;Vision floue;Difficulté à s'endormir;Gain ou perte de poids inexpliquée
+85;Migraine;;Alzheimer;Perte mémoire;Nausées;
+86;Cancer;LiverDisease;Anxiety;Nervosité;Douleur;Jauneur de la peau
+87;Anxiety;Obesity;Hypertension;Nervosité;Vision floue;Fatigue
+88;Asthma;KidneyDisease;;Essoufflement;Gonflement des jambes et des chevilles;
+89;Obesity;Alzheimer;KidneyDisease;Perte mémoire;Gonflement des jambes et des chevilles;Fatigue
+90;Depression;Cancer;Hypertension;Douleur;Tristesse;Vision floue
+91;Diabetes;Hypertension;;Soif excessive;Vision floue;
+92;Anemia;Depression;Anxiety;Fatigue;Nervosité;Tristesse
+93;Depression;Insomnia;Anemia;Fatigue;Tristesse;Difficulté à s'endormir
+94;Diabetes;Hypertension;Thyroid;Soif excessive;Vision floue;Gain ou perte de poids inexpliquée
+95;Cancer;LiverDisease;KidneyDisease;Douleur;Gonflement des jambes et des chevilles;Jauneur de la peau
+96;Hypertension;Anxiety;Thyroid;Nervosité;Vision floue;Gain ou perte de poids inexpliquée
+97;Cancer;KidneyDisease;Thyroid;Douleur;Gonflement des jambes et des chevilles;Gain ou perte de poids inexpliquée
+98;Depression;Thyroid;Anxiety;Nervosité;Tristesse;Gain ou perte de poids inexpliquée
+99;Cancer;HeartDisease;Hypertension;Douleur;Fatigue;Vision floue
+100;Diabetes;Hypertension;;Soif excessive;Vision floue;
